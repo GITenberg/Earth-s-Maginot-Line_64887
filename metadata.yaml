@@ -1,11 +1,16 @@
 _repo: Earth-s-Maginot-Line_64887
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64887-h/images/cover.jpg
 creator:
   author:
     agent_name: Paetzke, Roy
     gutenberg_agent_id: '53085'
     url: http://www.gutenberg.org/2009/agents/53085
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64887#Earth-s-Maginot-Line
 gutenberg_issued: '2021-03-20'
 gutenberg_type: Text
 identifiers:
